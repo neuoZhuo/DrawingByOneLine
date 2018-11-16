@@ -2,11 +2,11 @@
 
 第一行是[宽,高]
 ```
-0 width, height
+width, height
 ```
 第二行是[初始点 X 坐标,初始点 Y 坐标]
 ```
-1 start_X, start_Y
+start_X, start_Y
 ```
 原点在地图左上角，X 坐标范围 [0, width - 1]，Y 坐标范围 [0, height - 1]
 
