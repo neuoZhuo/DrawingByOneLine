@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         new Hamiltonian()
-                .load("C:\\Users\\DENGZHUO\\dev\\Hamiltonian\\5.map")
+                .load("./5.map")
                 .search();
     }
 }

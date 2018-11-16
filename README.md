@@ -23,6 +23,6 @@ start_X, start_Y
 - 调用
 ```
 new Hamiltonian()
-       .load("<absolute path>/xx.map")
+       .load("<absolute/relative path>/xx.map")
        .search();
 ```
